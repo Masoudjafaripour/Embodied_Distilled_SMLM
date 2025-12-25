@@ -1,0 +1,7 @@
+{
+  "image": "data/images/000123.png",
+  "question": "Can the robot reach the goal without collision?",
+  "teacher_reasoning": "The obstacle blocks the direct path, so the robot must go around the left side.",
+  "teacher_actions": "LEFT LEFT UP UP RIGHT RIGHT",
+  "answer": "Yes"
+}
